@@ -1,0 +1,14 @@
+<html>
+
+<meta CHARSET="UTF-8">
+    <head>
+          <img Src="alianca.png.jpg"></>
+          <h1>A cidade de Aliança-Pe é marcada por diversos grupos culturais, como o Maracatu Estrela de Ouro, e por festejos locais, como a Festa de Nossa Senhora do Bom Despacho:<h1>
+
+    </head>
+
+    <body>
+          <h2>sobre</h2>
+
+    </body>
+</html>
